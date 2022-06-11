@@ -1,0 +1,9 @@
+{
+  "id": "8fd099fa-304a-47fd-a03c-ec065d2174b1",
+  "name": "CalendarType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}
