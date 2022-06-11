@@ -1,0 +1,70 @@
+[
+  {
+    "value": "event",
+    "synonyms": [
+      "event"
+    ]
+  },
+  {
+    "value": "meeting",
+    "synonyms": [
+      "meeting"
+    ]
+  },
+  {
+    "value": "goal",
+    "synonyms": [
+      "goal"
+    ]
+  },
+  {
+    "value": "reminder",
+    "synonyms": [
+      "reminder"
+    ]
+  },
+  {
+    "value": "task",
+    "synonyms": [
+      "task"
+    ]
+  },
+  {
+    "value": "shopping",
+    "synonyms": [
+      "shopping",
+      "shopping trip"
+    ]
+  },
+  {
+    "value": "class",
+    "synonyms": [
+      "class"
+    ]
+  },
+  {
+    "value": "workout",
+    "synonyms": [
+      "workout"
+    ]
+  },
+  {
+    "value": "birthday",
+    "synonyms": [
+      "birthday",
+      "birthday party"
+    ]
+  },
+  {
+    "value": "appointment",
+    "synonyms": [
+      "appointment"
+    ]
+  },
+  {
+    "value": "visit",
+    "synonyms": [
+      "visit"
+    ]
+  }
+]
