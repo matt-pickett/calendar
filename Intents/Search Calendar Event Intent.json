@@ -44,7 +44,7 @@
           "dataType": "@sys.geo-city-us",
           "value": "$city",
           "defaultValue": "",
-          "isList": true,
+          "isList": false,
           "prompts": [],
           "promptMessages": [],
           "noMatchPromptMessages": [],
