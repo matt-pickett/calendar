@@ -1,0 +1,1261 @@
+[
+  {
+    "id": "9da91144-2d8f-41c7-a6f1-6dff608f6270",
+    "data": [
+      {
+        "text": "it is in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d580610-d1ac-4f1e-96bb-64208c544624",
+    "data": [
+      {
+        "text": "in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab3da097-cd86-471a-860e-8f1a7edd2bae",
+    "data": [
+      {
+        "text": "the event is in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e54b8e02-ee7a-4338-9888-84740ca82fd6",
+    "data": [
+      {
+        "text": "the event takes place in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f18ea14d-d44a-44a5-94e7-96290baef8c5",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "meeting",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28f1708f-b5a3-44e7-8911-02fcf0fdcabf",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "meeting",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c3275b8-0804-40e1-8e5a-12ea6cf66ecf",
+    "data": [
+      {
+        "text": "the type of event is a ",
+        "userDefined": false
+      },
+      {
+        "text": "meeting",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f632d63-1f84-459e-88d1-3591851c956a",
+    "data": [
+      {
+        "text": "the event is a ",
+        "userDefined": false
+      },
+      {
+        "text": "meeting",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ca53ec2-50a3-4114-9ac4-d4f5db9eb503",
+    "data": [
+      {
+        "text": "on ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be508b73-164d-4c99-9d98-792652acfc08",
+    "data": [
+      {
+        "text": "it takes place on ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a73bfb8c-cf2e-4176-8639-0f8bec3f3b42",
+    "data": [
+      {
+        "text": "create a ",
+        "userDefined": false
+      },
+      {
+        "text": "task",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Tuesday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "465a02d7-dd59-4aff-a1d5-586adf2f302c",
+    "data": [
+      {
+        "text": "add a ",
+        "userDefined": false
+      },
+      {
+        "text": "task",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Tuesday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "468785be-83f2-4199-a623-4111fdbb396a",
+    "data": [
+      {
+        "text": "create a calendar event on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab8a556a-d421-4797-8f41-ca1768803bb8",
+    "data": [
+      {
+        "text": "make a calendar event on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eaabafb6-67aa-4c6f-9119-5a0cf860430b",
+    "data": [
+      {
+        "text": "add a calendar event in ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2bbfb14-4afa-4dcb-a38e-9142afa88abc",
+    "data": [
+      {
+        "text": "add a calendar event on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a66051d-093a-4557-9d36-dc5ce43c1bbb",
+    "data": [
+      {
+        "text": "add a ",
+        "userDefined": false
+      },
+      {
+        "text": "meeting",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "537e8bd5-833b-478f-bb24-292da7f5cc84",
+    "data": [
+      {
+        "text": "create a ",
+        "userDefined": false
+      },
+      {
+        "text": "meeting",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51d137ec-96d4-4df2-b526-f2cab92afb3e",
+    "data": [
+      {
+        "text": "make a ",
+        "userDefined": false
+      },
+      {
+        "text": "meeting",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39775b65-9b9a-4fb0-b6f8-1502c6ea00a5",
+    "data": [
+      {
+        "text": "add a ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea74f50a-57e7-4b24-8355-1b2a47282d6c",
+    "data": [
+      {
+        "text": "the event takes place on ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "565c18c1-f947-4b70-8364-d6708eec7d15",
+    "data": [
+      {
+        "text": "add a ",
+        "userDefined": false
+      },
+      {
+        "text": "visit",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " calendar event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6ba10c5-4708-4284-92b6-b60f363eeb84",
+    "data": [
+      {
+        "text": "add a calendar event in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ee7a191-d959-4659-ad50-1efd6681bc17",
+    "data": [
+      {
+        "text": "add a calendar event for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48c8a7b3-8fc6-4e21-830d-177273c3f91e",
+    "data": [
+      {
+        "text": "add a ",
+        "userDefined": false
+      },
+      {
+        "text": "visit",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dda1a37e-3474-4d43-8038-d73e7d1fecce",
+    "data": [
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "638396f5-c6a4-4ef1-8276-17594ef806ec",
+    "data": [
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4325d5d8-1955-4728-8860-b23eb7615fc3",
+    "data": [
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63e64f49-216e-4413-8f6d-93b071ed29ad",
+    "data": [
+      {
+        "text": "add a ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Washington D.C.",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a45878e-a1d4-48e0-b0af-550e98d377d1",
+    "data": [
+      {
+        "text": "add a ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Vancouver",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "424d7528-f89d-453e-aa78-92877c155e4f",
+    "data": [
+      {
+        "text": "schedule a calendar event on ",
+        "userDefined": false
+      },
+      {
+        "text": "the 31st",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a170ded1-3934-49ed-925b-5f98d69800d7",
+    "data": [
+      {
+        "text": "make a calendar event on ",
+        "userDefined": false
+      },
+      {
+        "text": "May 31st",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b0dc6f5-0814-451d-b49a-8522b710d50c",
+    "data": [
+      {
+        "text": "create a calendar event on ",
+        "userDefined": false
+      },
+      {
+        "text": "May 31st",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74776606-f564-4788-bb9b-51fb2ffbea1c",
+    "data": [
+      {
+        "text": "create a event in ",
+        "userDefined": false
+      },
+      {
+        "text": "Los Angeles",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49d8b9d4-6300-4fa3-85ba-99ecaa570cea",
+    "data": [
+      {
+        "text": "schedule a calendar event in ",
+        "userDefined": false
+      },
+      {
+        "text": "Los Angeles",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9c839e15-1394-486b-9ce4-1e8d09f864df",
+    "data": [
+      {
+        "text": "make a calendar event in ",
+        "userDefined": false
+      },
+      {
+        "text": "Los Angeles",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fa447e0-d108-48e2-ab07-6c2f4935b9f3",
+    "data": [
+      {
+        "text": "make a ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "247e3c62-b0f6-44ea-9d1d-619f23977aa5",
+    "data": [
+      {
+        "text": "create a ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f42c8ee8-20fa-4198-bbaf-661a62cd54ef",
+    "data": [
+      {
+        "text": "add a new ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e23a7e63-e581-4487-ab1f-5cfed8048ebe",
+    "data": [
+      {
+        "text": "schedule a ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "513358e4-c490-4aca-bebc-f5978358229d",
+    "data": [
+      {
+        "text": "create",
+        "userDefined": true
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "goal",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "June 1st",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Los Angeles",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ec364fc-fc51-46ac-80d9-2188525de47c",
+    "data": [
+      {
+        "text": "add a ",
+        "userDefined": false
+      },
+      {
+        "text": "birthday party",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "May 15th",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Vancouver",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8844929-8635-4613-9055-fed2ab52bdaf",
+    "data": [
+      {
+        "text": "add a new ",
+        "userDefined": false
+      },
+      {
+        "text": "task",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "May 16th",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "San Jose",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d44009d-1fae-456d-bc43-742085c5f51c",
+    "data": [
+      {
+        "text": "make a ",
+        "userDefined": false
+      },
+      {
+        "text": "reminder",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " to go to ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Sunday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf95550c-c21c-4b21-9d9f-17b636d18bae",
+    "data": [
+      {
+        "text": "make a ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Beaverton",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b22cb245-ef3b-4aef-8ab8-4d7ebe3f5ae2",
+    "data": [
+      {
+        "text": "on ",
+        "userDefined": false
+      },
+      {
+        "text": "May 14th",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " schedule a ",
+        "userDefined": false
+      },
+      {
+        "text": "reminder",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " to to ",
+        "userDefined": false
+      },
+      {
+        "text": "Salem",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e107256-e968-4462-9153-559778cd5182",
+    "data": [
+      {
+        "text": "schedule a ",
+        "userDefined": false
+      },
+      {
+        "text": "meeting",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "May 13th",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "92740995-d714-4024-a3e6-abfab7d610db",
+    "data": [
+      {
+        "text": "create a ",
+        "userDefined": false
+      },
+      {
+        "text": "reminder",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "10:00AM",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Dallas",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "240cb855-b6d2-41ad-a7f9-82c7522bf640",
+    "data": [
+      {
+        "text": "add a ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "4:00PM",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

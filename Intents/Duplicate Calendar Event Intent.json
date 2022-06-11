@@ -1,0 +1,117 @@
+{
+  "id": "f1c798ab-9bc7-429a-86bc-2050f42c81c0",
+  "name": "Duplicate Calendar Event Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a8f2d0bd-6b37-4052-acc8-3703f5c83f2f",
+          "name": "eventType1",
+          "required": false,
+          "dataType": "@CalendarType",
+          "value": "$eventType1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "51c586e8-50f1-4487-a5a5-068179eeb64e",
+          "name": "time1",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$time1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "ade6f9b0-ba83-4491-828f-c83a28adf408",
+          "name": "city1",
+          "required": false,
+          "dataType": "@sys.geo-city-us",
+          "value": "$city1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "850695a0-dec0-4137-ad80-902b85221863",
+          "name": "eventType2",
+          "required": false,
+          "dataType": "@CalendarType",
+          "value": "$eventType2",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "9e2310ad-e51d-49b9-93cb-f702612228ff",
+          "name": "time2",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$time2",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e0f71c29-2899-4018-bd33-1a6c8bc42094",
+          "name": "city2",
+          "required": false,
+          "dataType": "@sys.geo-city-us",
+          "value": "$city2",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

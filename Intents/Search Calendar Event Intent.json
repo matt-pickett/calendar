@@ -1,0 +1,67 @@
+{
+  "id": "6bdc1e2d-663e-43e8-b322-a294ee1a4a1b",
+  "name": "Search Calendar Event Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ca3516f9-c781-4f25-bddd-dc3b7151a93c",
+          "name": "eventType",
+          "required": false,
+          "dataType": "@CalendarType",
+          "value": "$eventType",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "05e0faa9-070f-4298-8ab5-104eb8780334",
+          "name": "time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a4e5ed54-18f1-40b5-ae50-d58740e67df7",
+          "name": "city",
+          "required": false,
+          "dataType": "@sys.geo-city-us",
+          "value": "$city",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

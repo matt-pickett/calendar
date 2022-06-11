@@ -1,0 +1,75 @@
+{
+  "id": "6b618b0b-8ff8-424e-a7e9-69124d394e9d",
+  "name": "Undo Calendar Event Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "986aeaac-4ba4-4df9-97ba-1c3fecc2d38a",
+          "name": "eventType",
+          "required": false,
+          "dataType": "@CalendarType",
+          "value": "$eventType",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "99bd2e93-ee13-4943-a23b-a54d4ea3b63a",
+          "name": "time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8cf3b81e-b905-4354-b50b-46d8339d93b6",
+          "name": "city",
+          "required": false,
+          "dataType": "@sys.geo-city-us",
+          "value": "$city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

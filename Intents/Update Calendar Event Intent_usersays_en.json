@@ -1,0 +1,1195 @@
+[
+  {
+    "id": "0a7b5c7a-6834-41a6-8859-7c16d3a47fd6",
+    "data": [
+      {
+        "text": "update the ",
+        "userDefined": false
+      },
+      {
+        "text": "goal",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Sunday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Orlando",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to a ",
+        "userDefined": false
+      },
+      {
+        "text": "task",
+        "meta": "@CalendarType",
+        "alias": "eventType2",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08ecc7d9-36a9-4bea-8411-19cb914d1479",
+    "data": [
+      {
+        "text": "update the ",
+        "userDefined": false
+      },
+      {
+        "text": "goal",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Sunday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Orlando",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to a ",
+        "userDefined": false
+      },
+      {
+        "text": "task",
+        "meta": "@CalendarType",
+        "alias": "eventType2",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Albany",
+        "meta": "@sys.geo-city-us",
+        "alias": "city2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fa6caaf-69fc-4a00-b190-03057336a564",
+    "data": [
+      {
+        "text": "update the ",
+        "userDefined": false
+      },
+      {
+        "text": "goal",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Sunday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Orlando",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to in ",
+        "userDefined": false
+      },
+      {
+        "text": "Albany",
+        "meta": "@sys.geo-city-us",
+        "alias": "city2",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd9514c5-8403-444f-a89b-ea483aacdc2c",
+    "data": [
+      {
+        "text": "update the ",
+        "userDefined": false
+      },
+      {
+        "text": "goal",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Sunday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Orlando",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to in ",
+        "userDefined": false
+      },
+      {
+        "text": "Albany",
+        "meta": "@sys.geo-city-us",
+        "alias": "city2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a40779ae-92de-4171-aadb-f008da6f73b5",
+    "data": [
+      {
+        "text": "update the ",
+        "userDefined": false
+      },
+      {
+        "text": "goal",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Sunday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Orlando",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to a ",
+        "userDefined": false
+      },
+      {
+        "text": "meeting",
+        "meta": "@CalendarType",
+        "alias": "eventType2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cbf1c96-79d9-45be-8200-11b6205a0727",
+    "data": [
+      {
+        "text": "update the ",
+        "userDefined": false
+      },
+      {
+        "text": "goal",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Sunday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Orlando",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to a ",
+        "userDefined": false
+      },
+      {
+        "text": "task",
+        "meta": "@CalendarType",
+        "alias": "eventType2",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time2",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Albany",
+        "meta": "@sys.geo-city-us",
+        "alias": "city2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2606acec-f33d-44e2-9358-5427f58eacac",
+    "data": [
+      {
+        "text": "update the ",
+        "userDefined": false
+      },
+      {
+        "text": "goal",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Sunday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Orlando",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to on ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time2",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Albany",
+        "meta": "@sys.geo-city-us",
+        "alias": "city2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7fcc4581-d224-4823-86fc-07ab363cfabc",
+    "data": [
+      {
+        "text": "update the ",
+        "userDefined": false
+      },
+      {
+        "text": "goal",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Sunday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Orlando",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": false
+      },
+      {
+        "text": " to on ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84c9b909-8476-44c2-992f-1528d2533d9e",
+    "data": [
+      {
+        "text": "change the ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to a ",
+        "userDefined": false
+      },
+      {
+        "text": "meeting",
+        "meta": "@CalendarType",
+        "alias": "eventType2",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e0354def-c51f-42ce-8bde-e2b805247842",
+    "data": [
+      {
+        "text": "change the ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to a ",
+        "userDefined": false
+      },
+      {
+        "text": "task",
+        "meta": "@CalendarType",
+        "alias": "eventType2",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Los Angeles",
+        "meta": "@sys.geo-city-us",
+        "alias": "city2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0eec31e1-e7ff-49cd-9698-fef661806ec5",
+    "data": [
+      {
+        "text": "update every calendar event in ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c8de3b0-5043-4691-aa09-a6885b0cdf93",
+    "data": [
+      {
+        "text": "change every calendar event in ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78934868-c710-47c5-8a42-837c27c86fe8",
+    "data": [
+      {
+        "text": "update everything in ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10b0c5d4-d454-4b20-a698-815f7ae0aedb",
+    "data": [
+      {
+        "text": "update everything on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Saturday",
+        "meta": "@sys.date-time",
+        "alias": "time2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47d04a91-2fa8-4efb-ad57-697f96e809ce",
+    "data": [
+      {
+        "text": "update all ",
+        "userDefined": false
+      },
+      {
+        "text": "reminder",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": true
+      },
+      {
+        "text": " events to ",
+        "userDefined": false
+      },
+      {
+        "text": "task",
+        "meta": "@CalendarType",
+        "alias": "eventType2",
+        "userDefined": true
+      },
+      {
+        "text": " events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8431263-8eaf-4828-9faf-5113e8d80a63",
+    "data": [
+      {
+        "text": "change the ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to in ",
+        "userDefined": false
+      },
+      {
+        "text": "Vancouver",
+        "meta": "@sys.geo-city-us",
+        "alias": "city2",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Sunday",
+        "meta": "@sys.date-time",
+        "alias": "time2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b647a9ea-d9a4-4670-be63-cfb8e4d52fbc",
+    "data": [
+      {
+        "text": "change the ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to in ",
+        "userDefined": false
+      },
+      {
+        "text": "Vancouver",
+        "meta": "@sys.geo-city-us",
+        "alias": "city2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "139063ad-9301-4bda-bd25-573226d83eff",
+    "data": [
+      {
+        "text": "change the ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to a ",
+        "userDefined": false
+      },
+      {
+        "text": "task",
+        "meta": "@CalendarType",
+        "alias": "eventType2",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a846ef8-1e28-414f-8e30-89ea36dadf00",
+    "data": [
+      {
+        "text": "change the ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to a ",
+        "userDefined": false
+      },
+      {
+        "text": "meeting",
+        "meta": "@CalendarType",
+        "alias": "eventType2",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time2",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "meta": "@sys.geo-city-us",
+        "alias": "city2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1faef891-9a41-4030-b9fd-1d6c6da9d7d5",
+    "data": [
+      {
+        "text": "change the ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to on ",
+        "userDefined": false
+      },
+      {
+        "text": "Sunday",
+        "meta": "@sys.date-time",
+        "alias": "time2",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Vancouver",
+        "meta": "@sys.geo-city-us",
+        "alias": "city2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea04740b-be8e-4dd8-9ce4-f96276bebb1e",
+    "data": [
+      {
+        "text": "change an ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to on ",
+        "userDefined": false
+      },
+      {
+        "text": "Sunday",
+        "meta": "@sys.date-time",
+        "alias": "time2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cf66eae6-03d8-4f8e-9847-e880427cb275",
+    "data": [
+      {
+        "text": "change the ",
+        "userDefined": false
+      },
+      {
+        "text": "event",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": true
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to on ",
+        "userDefined": false
+      },
+      {
+        "text": "Saturday",
+        "meta": "@sys.date-time",
+        "alias": "time2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9d975c7-b3bf-4e85-872d-3d4eedbb68f0",
+    "data": [
+      {
+        "text": "change everything in ",
+        "userDefined": false
+      },
+      {
+        "text": "Seattle",
+        "meta": "@sys.geo-city-us",
+        "alias": "city1",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1f21be70-01ba-4834-b179-3e9ce4973527",
+    "data": [
+      {
+        "text": "change everything on ",
+        "userDefined": false
+      },
+      {
+        "text": "Friday",
+        "meta": "@sys.date-time",
+        "alias": "time1",
+        "userDefined": true
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "Saturday",
+        "meta": "@sys.date-time",
+        "alias": "time2",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42c43e65-8a76-474b-a0c0-a213de7617c0",
+    "data": [
+      {
+        "text": "change all ",
+        "userDefined": false
+      },
+      {
+        "text": "reminder",
+        "meta": "@CalendarType",
+        "alias": "eventType1",
+        "userDefined": true
+      },
+      {
+        "text": " events to ",
+        "userDefined": false
+      },
+      {
+        "text": "task",
+        "meta": "@CalendarType",
+        "alias": "eventType2",
+        "userDefined": true
+      },
+      {
+        "text": " events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

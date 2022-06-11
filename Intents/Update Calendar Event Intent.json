@@ -1,0 +1,117 @@
+{
+  "id": "8c4e5330-ad00-4fc7-ba6d-f8716680aa8e",
+  "name": "Update Calendar Event Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c05bd09f-ef8a-4911-94bf-b911017c2026",
+          "name": "eventType1",
+          "required": false,
+          "dataType": "@CalendarType",
+          "value": "$eventType1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "821efa15-e2b2-4a2d-9b3e-6c892b4bb4c6",
+          "name": "eventType2",
+          "required": false,
+          "dataType": "@CalendarType",
+          "value": "$eventType2",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4d652b7d-ab2f-4a4f-90d1-33f5ced0d90e",
+          "name": "time1",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$time1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a1b03af8-f361-434a-a173-ff980fa9f11f",
+          "name": "time2",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$time2",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "90ab3fb7-dfad-4efe-9d92-eef31148b4a0",
+          "name": "city1",
+          "required": false,
+          "dataType": "@sys.geo-city-us",
+          "value": "$city1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "cd5ec345-7c42-479a-80c0-2766adb41955",
+          "name": "city2",
+          "required": false,
+          "dataType": "@sys.geo-city-us",
+          "value": "$city2",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

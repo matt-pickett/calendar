@@ -1,0 +1,56 @@
+{
+  "id": "06452788-59eb-49ab-a384-cb459d88fa92",
+  "parentId": "86dbf59c-df28-4ba4-9ca7-7d67fbe50ebe",
+  "rootParentId": "86dbf59c-df28-4ba4-9ca7-7d67fbe50ebe",
+  "name": "Say Name Intent",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0eba99ee-1c1d-43c4-ac7b-279b456ccaaf",
+          "name": "person",
+          "required": false,
+          "dataType": "@sys.person",
+          "value": "$person",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Nice to meet you. How can I help?",
+            "Great, lovely to meet you. How can I help?",
+            "Lovely making your acquaintance. How can I assist you today?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

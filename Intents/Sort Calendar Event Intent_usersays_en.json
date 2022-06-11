@@ -1,0 +1,691 @@
+[
+  {
+    "id": "58eabc0b-2b26-4703-baca-61dfe53fc865",
+    "data": [
+      {
+        "text": "put all ",
+        "userDefined": false
+      },
+      {
+        "text": "meeting",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " events first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b9ed1ce-5f9e-4379-babc-18ef0efec9db",
+    "data": [
+      {
+        "text": "put all ",
+        "userDefined": false
+      },
+      {
+        "text": "Chicago",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      },
+      {
+        "text": " events first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2952feb5-201c-46b7-ab2f-ae8679186eeb",
+    "data": [
+      {
+        "text": "put all ",
+        "userDefined": false
+      },
+      {
+        "text": "Chicago",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      },
+      {
+        "text": " events in the front",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "75f98bbf-40e1-4ea0-8c19-eef82ed0a2b5",
+    "data": [
+      {
+        "text": "put all events happening in ",
+        "userDefined": false
+      },
+      {
+        "text": "Chicago",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      },
+      {
+        "text": " in the front",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3fb0c22-ef22-4ead-b853-a2ca07bc3558",
+    "data": [
+      {
+        "text": "sort by ",
+        "userDefined": false
+      },
+      {
+        "text": "Chicago",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      },
+      {
+        "text": " first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66bdf8ba-9721-4779-86f0-15cbf6c53c17",
+    "data": [
+      {
+        "text": "sort by putting events happening in ",
+        "userDefined": false
+      },
+      {
+        "text": "Chicago",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      },
+      {
+        "text": " first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2431008-0298-4a15-8f89-1c519e494511",
+    "data": [
+      {
+        "text": "sort by putting all events happening in ",
+        "userDefined": false
+      },
+      {
+        "text": "Chicago",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      },
+      {
+        "text": " first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba4bf1cc-3637-4a2d-afd3-7651e561bb98",
+    "data": [
+      {
+        "text": "put all events happening in ",
+        "userDefined": false
+      },
+      {
+        "text": "Chicago",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      },
+      {
+        "text": " first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "768cc677-1e3e-4fd3-9882-c614010308ea",
+    "data": [
+      {
+        "text": "put all ",
+        "userDefined": false
+      },
+      {
+        "text": "shopping trip",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " events in the front of the calendar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9a34ea8d-6a41-483b-a626-a568a648f9f2",
+    "data": [
+      {
+        "text": "put all ",
+        "userDefined": false
+      },
+      {
+        "text": "shopping trip",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " events in the front",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d6cf293-6bda-40dc-85ac-2c272f962b73",
+    "data": [
+      {
+        "text": "sort by putting events happening on ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3270755d-4150-416d-9a74-aac941883bc3",
+    "data": [
+      {
+        "text": "put ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " first in the calendar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7e07a3e2-e552-445e-b1e9-bae0c3e84d73",
+    "data": [
+      {
+        "text": "put ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dbd7283b-61ab-4d04-bb49-f0612f107747",
+    "data": [
+      {
+        "text": "put events on ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9d78148-6cf5-4bdb-93dc-5ce25a1b10d2",
+    "data": [
+      {
+        "text": "sort by putting ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " events first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "27bd75f0-993d-4b68-a309-b7f14438f047",
+    "data": [
+      {
+        "text": "put all ",
+        "userDefined": false
+      },
+      {
+        "text": "shopping trip",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " calendar events first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "609a9a35-8d46-4275-b020-ca5f209f988c",
+    "data": [
+      {
+        "text": "sort by putting ",
+        "userDefined": false
+      },
+      {
+        "text": "shopping trip",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e78824f0-1d88-42f1-bd6b-1333f7bbdedc",
+    "data": [
+      {
+        "text": "sort by putting ",
+        "userDefined": false
+      },
+      {
+        "text": "shopping trip",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " events first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51838525-dfe1-4359-b42a-d604cb9aed9a",
+    "data": [
+      {
+        "text": "sort by putting ",
+        "userDefined": false
+      },
+      {
+        "text": "shopping trip",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " calendar events first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3fc0c35-511d-4ac5-9675-c479390c0bb6",
+    "data": [
+      {
+        "text": "sort the calendar by putting ",
+        "userDefined": false
+      },
+      {
+        "text": "shopping trip",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " calendar events first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02e0a421-b11e-49a1-ba11-ea64218e4fbb",
+    "data": [
+      {
+        "text": "sort by events in ",
+        "userDefined": false
+      },
+      {
+        "text": "Chicago",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d21c139-1f97-458f-af8d-b7cc3a9805fa",
+    "data": [
+      {
+        "text": "sort by ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "361419c5-b80e-4e75-9ebf-a3d0ee50619a",
+    "data": [
+      {
+        "text": "sort the calendar by ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1771e06-a20b-44b5-9592-44fdf4d5af6a",
+    "data": [
+      {
+        "text": "sort the calendar by each event in ",
+        "userDefined": false
+      },
+      {
+        "text": "Portland",
+        "meta": "@sys.geo-city-us",
+        "alias": "city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d78377ef-ad24-479d-8c31-41825d2b496e",
+    "data": [
+      {
+        "text": "put calendar events happening on ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18949603-0c1f-4b32-ad04-cdd1ce063e34",
+    "data": [
+      {
+        "text": "sort the calendar by putting ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      },
+      {
+        "text": " first",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c02a2930-fcdd-4249-8063-a4a5c0ec9e0f",
+    "data": [
+      {
+        "text": "sort by ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7251c24-f9b9-47ed-93bf-c3a218095fc4",
+    "data": [
+      {
+        "text": "sort the calendar by ",
+        "userDefined": false
+      },
+      {
+        "text": "Monday",
+        "meta": "@sys.date-time",
+        "alias": "time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c614228-8f1d-44dc-bdd9-71f2b61f9cf7",
+    "data": [
+      {
+        "text": "sort by ",
+        "userDefined": false
+      },
+      {
+        "text": "reminder",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c976e7ce-ad38-4284-a2b6-4e184183252d",
+    "data": [
+      {
+        "text": "sort by ",
+        "userDefined": false
+      },
+      {
+        "text": "reminder",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " calendar events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3b3f7eec-6f1b-4122-b48b-c618e3e4529a",
+    "data": [
+      {
+        "text": "sort the calendar by ",
+        "userDefined": false
+      },
+      {
+        "text": "reminder",
+        "meta": "@CalendarType",
+        "alias": "eventType",
+        "userDefined": true
+      },
+      {
+        "text": " calendar events",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
