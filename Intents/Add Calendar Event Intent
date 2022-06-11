@@ -1,0 +1,67 @@
+{
+  "id": "89e41f8e-18c1-4478-9ad4-14c75e7a36e3",
+  "name": "Add Calendar Event Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e4be1467-c762-4d13-a1b4-63abd920ffcf",
+          "name": "eventType",
+          "required": false,
+          "dataType": "@CalendarType",
+          "value": "$eventType",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "429b1a9b-8056-42bd-bd0c-ae7a2f6a4098",
+          "name": "city",
+          "required": false,
+          "dataType": "@sys.geo-city-us",
+          "value": "$city",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b5f2eeb4-0221-47e8-b4e3-d2f16b0d220b",
+          "name": "time",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "value": "$time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
